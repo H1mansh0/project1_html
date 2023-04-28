@@ -1,4 +1,10 @@
-.about__image{
-	width: 20px;
-	height: 20px;
-}
+.about__image {
+	max-width: 272px;
+	max-height: 257px;
+	width: 100%;
+  }
+  
+  .photo__man_about {
+	width: 100%;
+	height: auto;
+  }
