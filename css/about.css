@@ -1,0 +1,19 @@
+.about__image {
+	min-width: 272px;
+	min-height: 257px;
+	width: 100%;
+	max-width: 719px;
+	float: left;
+	margin-right: 20px;
+  }
+  .photo__man_about {
+	width: 100%;
+	height: auto;
+  }
+
+  .about__coffe {
+	margin-top: 0;
+	min-height: 561px;
+	margin-right: 20px;
+
+  }
