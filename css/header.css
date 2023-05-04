@@ -1,6 +1,16 @@
 .header__main {
-	background-image: url();
+	background: url(/header-bg.png) no-repeat  61.13% 13.28% ;
+	min-height: 568px;
+	background-size: cover;
+	background-color: #2e3032;
+	
 }
+.header__main_first{
+	
+	
+	
+}
+
 .header_navbar {
 }
 .header__img {
@@ -8,6 +18,7 @@
 	min-height: 32px;
 	width: 100%;
 	max-width: 180px;
+	
 }
 .header__logo {
 	width: 100%;
@@ -28,3 +39,4 @@
 }
 .social__links {
 }
+	/* "style":[{"media":"(min-width: 1200px) and (max-width: 1920px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54"},{"media":"(max-width: 768px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54_optimized_1200"},{"media":"(min-width: 768px) and (max-width: 1199px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54_optimized_1920"},{"media":"(min-width: 1921px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54"},{"media":"(min-width: 2560px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54"},{"media":"only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1200px), only screen and (min-resolution: 144dpi) and (min-width: 1200px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54"},{"media":"only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 1920px), only screen and (min-resolution: 144dpi) and (min-width: 1920px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54"},{"media":"only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 2560px), only screen and (min-resolution: 144dpi) and (min-width: 2560px)","background":"no-repeat 58.13% 13.28% / cover , #2e3032","url":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54"}],"mediaImageBackground":true,"backgroundClassName":"background_2xT","isParallax":false,"filterStyle":{},"fallbackurl":"//res2.weblium.site/res/6172b76b979f220022d6edd5/617a664e014f000022c32d54","isOptimize":false,"flop":false} */
