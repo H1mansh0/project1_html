@@ -3,3 +3,13 @@
 	font-size: 26px;
 }
 
+img {
+	display: block;
+	width: 100%;
+  }
+  
+body {
+	margin: 0;
+	padding: 0;
+  }
+
