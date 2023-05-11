@@ -13,10 +13,11 @@
 	min-height: 568px;
 	width: 100%;
 	
-	background-color: #2e3032e1;
+	background-color: #2e3032ec;
 }
 .header_navbar {
-	
+
+	padding: 30px 24px 30px 24px;
 }
 .header__img {
 	min-width: 180px;
@@ -27,17 +28,18 @@
 .header__logo {
 	width: 100%;
 	height: auto;
+	
 }
 .burger_line {
 	position: absolute;
 	left: 270px;
-	top: 32px;
+	top: 36px;
 	display: inline-block;
 	cursor: pointer;
 	margin-left: auto;
 }
 
-/* Стилі для всіх ліній бургер-меню */
+
 .burger_line span {
 	display: block;
 	width: 24px;
@@ -46,17 +48,10 @@
 	background-color: #fff;
 	transition: all 0.2s ease-in-out;
 }
-.header__links {
+
+	
+
+.header__title {
 }
-.header__links__about-us {
-}
-.header__links__courses {
-}
-.header__links__pricing {
-}
-.header__links__testimonials {
-}
-.header__links__contacts {
-}
-.social__links {
+.header__paragrath {
 }
