@@ -1,5 +1,16 @@
 .main__text{
 	color: #c7a17a;
 	font-size: 26px;
+	font-family: 'Satisfy', cursive;
 }
+
+img {
+	display: block;
+	width: 100%;
+  }
+  
+body {
+	margin: 0;
+	padding: 0;
+  }
 
