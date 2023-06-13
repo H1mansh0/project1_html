@@ -13,19 +13,7 @@
 	width: 100%;
 	background-color: #27292be0;
 }
-.header_navbar {
-	padding: 30px 24px 30px 24px;
-}
-.header__img {
-	min-width: 180px;
-	min-height: 32px;
-	width: 100%;
-	max-width: 180px;
-}
-.header__logo {
-	width: 100%;
-	height: auto;
-}
+
 .burger_line {
 	position: absolute;
 	left: 270px;
