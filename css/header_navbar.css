@@ -1,7 +1,4 @@
-
-
 .header_navbar {
-	
 	padding: 30px 24px 30px 24px;
 }
 .header__img {
@@ -13,8 +10,29 @@
 .header__logo {
 	width: 100%;
 	height: auto;
-
+}
+a {
+	text-decoration: none;
+}
+.menu_body {
+	position: relative;
+	bottom: 30px;
+	left: 270px;
+}
+.menu_body a {
+	font-family: "Roboto", sans-serif;
+	color: #ffff;
+	font-size: 16px;
 }
 
-
-	
+@media (min-width: 700px) {
+	.menu_main {
+		display: flex;
+		position: relative;
+		bottom: 40px;
+		left: 180px;
+	}
+	.menu_link {
+		margin-right: 10px;
+	}
+}
