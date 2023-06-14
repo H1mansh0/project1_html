@@ -26,11 +26,12 @@ a {
 	font-family: "Roboto", sans-serif;
 	color: #e6e6e6;
 	font-size: 16px;
-}
-a {
 	position: relative;
 }
-a:before {
+/* a {
+	position: relative;
+} */
+ .menu_link:before {
 	content: "";
 	background: #ffff;
 	display: block;
@@ -42,13 +43,13 @@ a:before {
 	transition: all 0.3s ease-in-out;
 }
 
-a:hover {
+.menu_link:hover {
 	background-position: 0;
 	color: #ffff;
 }
 
-a:hover::before {
-	width: 100%;
+.menu_link:hover::before {
+	width: 75%;
 }
 
 .menu_link {
