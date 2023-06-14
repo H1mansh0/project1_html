@@ -5,68 +5,65 @@
 	max-width: 351px;
 	float: left;
 	margin-right: 20px;
-  }
-  .photo__man_about {
+}
+.photo__man_about {
 	width: 272px;
 	height: 257px;
 	height: auto;
 	max-width: 702.4px;
 	max-height: 665.03px;
 	margin-left: auto;
-    margin-right: auto;
+	margin-right: auto;
+}
 
-  }
-
-  .main__text_about{
+.main__text_about {
 	margin-left: 23px;
-    margin-right: auto;
+	margin-right: auto;
 	width: 272px;
 	height: 313px;
 	color: #c7a17a;
 	font-size: 26px;
-	font-family: 'Satisfy', cursive;
-  }
+	font-family: "Satisfy", cursive;
+}
 
-  .about__coffe {
+.about__coffe {
 	margin-top: 0;
 	min-height: 40px;
 	margin-right: 20px;
-
-  }
-.about__professional_couses{
+}
+.about__professional_couses {
 	margin-top: 0;
 	min-height: 561px;
 	margin-right: 20px;
 }
 
-.about__coffe_master{
+.about__coffe_master {
 	/* font-size: 38px; */
 	text-transform: uppercase;
-	font-weight: bold;	
+	font-weight: bold;
 	width: 250.18px;
 	height: 91.4;
 	min-height: 91.4px;
 	margin-left: 23px;
 }
 
-.about__coffe_text{
+.about__coffe_text {
 	margin-left: 23px;
 }
 
-.about__coffe_second_text{
+.about__coffe_second_text {
 	margin-left: 23px;
 }
 
-
-.about__couses_title{
+.about__couses_title {
 	text-transform: uppercase;
-	font-weight: bold;	
+	font-weight: bold;
 	width: 250.18px;
 	height: 91.4;
 	min-height: 91.4px;
 	margin-left: 23px;
 }
-.about__couses_titel_line{
+.about__couses_titel_line {
 	background-color: #c7a17a;
 	max-width: 10px;
 	height: 3px;
@@ -77,18 +74,18 @@
 	bottom: 30px;
 }
 
-.about__couses_text{
+.about__couses_text {
 	margin-left: 23px;
 }
 
-.about__button{
+.about__button {
 	margin-left: 23px;
 	background-color: #c7a17a; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
 }

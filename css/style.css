@@ -14,3 +14,7 @@ body {
 	padding: 0;
 	overflow-x: hidden;
 }
+/* не питайте що нащо  */
+header {
+	overflow-x: hidden;
+}
