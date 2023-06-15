@@ -36,12 +36,7 @@
 	bottom: 40px;
 	letter-spacing: 8px;
 }
-.navbar__line {
-	background-color: #c7a17a;
-	max-width: 10px;
-	height: 3px;
-	width: 100%;
-	margin: 0 auto;
+.navbar_text .navbar__line {
 	position: relative;
 	bottom: 30px;
 }
