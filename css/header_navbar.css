@@ -29,7 +29,7 @@ a {
 	font-size: 16px;
 	position: relative;
 }
- .menu_link:before {
+.menu_link:before {
 	content: "";
 	background: #ffff;
 	display: block;
@@ -59,10 +59,9 @@ a {
 	right: 0;
 	top: -20px;
 	max-width: 100%;
-	
 }
-.social_icons_navbar li:hover{
-color:#a4500e;
+.social_icons_navbar li:hover {
+	color: #a4500e;
 }
 
 @media (min-width: 1000px) {
@@ -77,15 +76,12 @@ color:#a4500e;
 		visibility: hidden;
 		pointer-events: none;
 	}
-	
-	}
-	
+}
 
-@media (min-width: 1000px){
-	.burger_menu{
+@media (min-width: 1000px) {
+	.burger_menu {
 		opacity: 0%;
 		visibility: hidden;
 		pointer-events: none;
 	}
 }
-
