@@ -69,7 +69,6 @@ a {
 		margin-right: 10px;
 	}
 }
-
 @media (max-width: 1000px) {
 	.menu_body {
 		opacity: 0%;
@@ -83,5 +82,17 @@ a {
 		opacity: 0%;
 		visibility: hidden;
 		pointer-events: none;
+	}
+}
+.burger_icon_div {
+	display: none;
+}
+@media (max-width: 1000px) {
+	.burger_icon_div {
+		display: block;
+		position: relative;
+		width: 30px;
+		height: 18px;
+		cursor: pointer;
 	}
 }
